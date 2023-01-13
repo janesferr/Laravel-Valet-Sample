@@ -69,3 +69,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 http://laragigs.test/
 
 This is assuming that you did not rename anything in the process.
+
+## Troubleshooting steps with 502:
+https://dwij.net/laravel-valet-502-bad-gateway-solved/
