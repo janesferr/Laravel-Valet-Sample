@@ -1,8 +1,5 @@
 {
     "private": false,
-     "scripts": {
-    "build": "[my-framework] build --output public"
-  }
     "scripts": {
         "dev": "vite",
         "build": "vite build"
