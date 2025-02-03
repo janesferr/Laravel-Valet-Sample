@@ -4,6 +4,9 @@
         "dev": "vite",
         "build": "vite build"
     },
+    "scripts": {
+    "build": "[my-framework] build --output public"
+  }
     "devDependencies": {
         "axios": "^1.1.2",
         "laravel-vite-plugin": "^0.7.0",
